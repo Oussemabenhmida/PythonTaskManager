@@ -13,3 +13,4 @@ pythonw PythonTaskManager/pytaskmanager.pyw
 ### Dependencies
 To install dependencies: `pip install -r requirements.txt`
 - psutil
+- pyqt5
