@@ -1,5 +1,5 @@
 # PythonTaskManager
- A Windows task manager for python applications.
+ A Better Windows task manager for python applications.
 
 ### Advantages
 - Quickly find out what python applications are running.
